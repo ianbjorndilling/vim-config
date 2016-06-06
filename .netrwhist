@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/iandilling/Projects/iandilling/ianbjorndilling.github.io/_layouts'
+let g:netrw_dirhist_2='/Users/iandilling/Projects/uStat/iOS/uStat'
+let g:netrw_dirhist_3='/Users/iandilling/Projects/uStat/iOS'
+let g:netrw_dirhist_4='/Users/iandilling/Projects/uStat'
+let g:netrw_dirhist_5='/Users/iandilling'
+let g:netrw_dirhist_6='/Users/iandilling/Projects/pi_arcade/src'
+let g:netrw_dirhist_7='/Users/iandilling/Projects/pi_arcade/src/entity'
